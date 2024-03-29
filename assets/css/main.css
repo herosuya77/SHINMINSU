@@ -356,6 +356,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		font-family: 'NotoSansKR-Regular';
 	}
 
 		p.major {
