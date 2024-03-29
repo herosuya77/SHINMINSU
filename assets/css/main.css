@@ -1,3 +1,12 @@
+@font-face {
+	font-family: 'NotoSansKR-Regular', sans-serif;
+	src: url("NotoSansKR-Regular.ttf") format("truetype");
+  }
+
+body {
+	font-family: 'NotoSansKR-Regular'
+}
+
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 /* 모달팝업 */
